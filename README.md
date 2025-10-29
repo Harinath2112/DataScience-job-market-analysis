@@ -32,7 +32,7 @@ The dashboard uses a cleaned and curated CSV dataset of 2025 job postings, inclu
 
 ## Demo
 
-- ![Dashboard Preview](dashboard.png)
+- ![Dashboard Preview](Dashboard.png)
 
 ## Video Tutorial
 
