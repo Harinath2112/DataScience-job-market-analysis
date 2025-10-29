@@ -1,6 +1,6 @@
 # Data Science Job Market Analysis Dashboard
 
-![Project Dashboard](dashboard.jpg)
+![Project Dashboard](dashboard.png)
 
 ## Overview
 This project is an interactive Excel dashboard that analyzes the data science job market using real job postings from 2025. It covers trends in job roles, salaries, locations, skills demand, and industry sectors.
